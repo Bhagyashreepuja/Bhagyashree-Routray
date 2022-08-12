@@ -1,4 +1,4 @@
-[![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://bhagyashree-routray-2476a9206.io)
+[![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://bhagyashreepuja-2476a9206.io)
 <h1 align="center">Hi 👋, I'm Bhagyashree Routray</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
